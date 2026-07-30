@@ -36,6 +36,8 @@ Automated LLM quantization benchmarking engine and VRAM profiler for PyTorch and
 * **300 DPI Chart Generation:** Produces a publication-ready visual comparison plot saved directly to `llm_benchmark_gemma2_9b_t4.png`.
 
 ---
+## License
+MIT
 
 ## Quickstart
 
